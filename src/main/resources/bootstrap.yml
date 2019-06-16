@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: bank-accounts-mgmt-one
+  cloud:
+    config:
+      uri: http://localhost:8888
